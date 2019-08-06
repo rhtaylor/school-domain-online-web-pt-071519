@@ -23,10 +23,8 @@ class School
     nu[grade] = student.sort
     nu.sort
   end
-  nu.keys.each do |key|
-    key.to_sym
-  binding.pry
+  nu
   end
-  binding.pry
+
 end
 end
