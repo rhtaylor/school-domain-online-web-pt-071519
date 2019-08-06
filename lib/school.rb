@@ -21,7 +21,7 @@ class School
   nu = {}
   roster.each do |grade, student|
     nu[grade:] => student.sort
-    
+
   end
   nu
   end
