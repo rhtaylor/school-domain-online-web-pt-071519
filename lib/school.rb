@@ -23,7 +23,7 @@ class School
     nu[grade] = student.sort
     nu.sort
   end
-  nu
+  nu.sort
   end
 
 end
