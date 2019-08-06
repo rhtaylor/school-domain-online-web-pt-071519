@@ -20,7 +20,7 @@ class School
   def sort
   nu = {}
   roster.each do |grade, student|
-    nu[grade:] => student.sort
+    nu[grade] => student.sort
 
   end
   nu
